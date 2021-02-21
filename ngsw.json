@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1613942169687,
+  "timestamp": 1613942497429,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -17,7 +17,7 @@
         "/manifest.webmanifest",
         "/polyfills.e11df2376844d2b29b34.js",
         "/runtime.0e49e2b53282f40c8925.js",
-        "/styles.54c7f881345a23903bef.css"
+        "/styles.8137ab04b71a632f8e69.css"
       ],
       "patterns": []
     },
@@ -114,12 +114,12 @@
     "/assets/splash/apple-splash-portrait-750x1334.jpg": "cd0194c73a9c2192742abe80c24212bdce302db1",
     "/assets/splash/apple-splash-portrait-828x1792.jpg": "255f84e7a868b9dbf87fc27e7244e4ad9c92c559",
     "/favicon.ico": "045537cdd8b1e9851a13dc481014c0cf956b872f",
-    "/index.html": "73d3bea8e479d097fde86064c9c15d2f44c3fb4b",
+    "/index.html": "a1343b1628a0d763401cf149d68699f82472b130",
     "/main.65110df3f4982eae4d5c.js": "2634e1e57baa2ba6434308b3f32ca54708e32092",
     "/manifest.webmanifest": "46d71c442ae288ddff67f7ef5452243188c9f2d4",
     "/polyfills.e11df2376844d2b29b34.js": "0d003992512d28c544b0a972ce2ae6b28ebbf5f6",
     "/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/styles.54c7f881345a23903bef.css": "83223e8a15bb3a2b8c3bae1d2862262e77563b5b"
+    "/styles.8137ab04b71a632f8e69.css": "ae6f4476f20a09d3a3b0489a476c5faabf8331b9"
   },
   "navigationUrls": [
     {
