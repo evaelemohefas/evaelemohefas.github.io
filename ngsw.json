@@ -1,0 +1,143 @@
+{
+  "configVersion": 1,
+  "timestamp": 1613941418262,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.c2f16b06c2b0cd3f144a.js",
+        "/manifest.webmanifest",
+        "/polyfills.e11df2376844d2b29b34.js",
+        "/runtime.0e49e2b53282f40c8925.js",
+        "/styles.9d609ddb7f98a8839335.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/MaterialIcons-Regular.1811d381e9d3e8334394.woff",
+        "/MaterialIcons-Regular.45c4a4612e18a3255f51.ttf",
+        "/MaterialIcons-Regular.56395d5d012de45e4955.eot",
+        "/MaterialIcons-Regular.fa3334fe030aed8470dd.woff2",
+        "/Rubik-VariableFont_wght.ea64076529ec36410b6d.ttf",
+        "/apple-touch-icon.png",
+        "/assets/fonts/Rubik-Italic-VariableFont_wght.ttf",
+        "/assets/fonts/Rubik-VariableFont_wght.ttf",
+        "/assets/home-fill.png",
+        "/assets/home-outline.png",
+        "/assets/icons/apple-touch-icon-152x152.png",
+        "/assets/icons/apple-touch-icon-167x167.png",
+        "/assets/icons/apple-touch-icon-180x180.png",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-400x400.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/mail-fill.png",
+        "/assets/mail-outline.png",
+        "/assets/notification-image.jpg",
+        "/assets/scan-image.jpg",
+        "/assets/setting-fill.png",
+        "/assets/setting-outline.png",
+        "/assets/splash/apple-splash-portrait-1125x2436.jpg",
+        "/assets/splash/apple-splash-portrait-1242x2208.jpg",
+        "/assets/splash/apple-splash-portrait-1242x2688.jpg",
+        "/assets/splash/apple-splash-portrait-1536x2048.jpg",
+        "/assets/splash/apple-splash-portrait-1620x2160.jpg",
+        "/assets/splash/apple-splash-portrait-1668x2224.jpg",
+        "/assets/splash/apple-splash-portrait-1668x2388.jpg",
+        "/assets/splash/apple-splash-portrait-2048x2732.jpg",
+        "/assets/splash/apple-splash-portrait-640x1136.jpg",
+        "/assets/splash/apple-splash-portrait-750x1334.jpg",
+        "/assets/splash/apple-splash-portrait-828x1792.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/MaterialIcons-Regular.1811d381e9d3e8334394.woff": "fd35aef76e3df58554d92457fb41f0f6a5dd4f01",
+    "/MaterialIcons-Regular.45c4a4612e18a3255f51.ttf": "ab5cb381b64844e1ae426cde4064074fac76c567",
+    "/MaterialIcons-Regular.56395d5d012de45e4955.eot": "da7bf13623178411bd7960b7c2e6ff8767ceac39",
+    "/MaterialIcons-Regular.fa3334fe030aed8470dd.woff2": "0bec0581767ccb3256ca805b1904031ac0147f07",
+    "/Rubik-VariableFont_wght.ea64076529ec36410b6d.ttf": "9eb3cea52512b1f3cd2fb6cb73d47e98d15f6783",
+    "/apple-touch-icon.png": "229df2094cc590088de00ea97a1eb4e4493101d2",
+    "/assets/fonts/Rubik-Italic-VariableFont_wght.ttf": "1bb89d81ad286697b07bcdf4031416631dff2802",
+    "/assets/fonts/Rubik-VariableFont_wght.ttf": "9eb3cea52512b1f3cd2fb6cb73d47e98d15f6783",
+    "/assets/home-fill.png": "b14e55fa8eec6c88b8b5d34453abaa9ce3051aea",
+    "/assets/home-outline.png": "a620b48f9ca7bad9b9e8d2c2fb92a97459f6da6f",
+    "/assets/icons/apple-touch-icon-152x152.png": "e01b6a2348bb0ae5f39e98bc29c35b3445d39690",
+    "/assets/icons/apple-touch-icon-167x167.png": "b52737793bb5a59b33aa60cac1c2a86ae38ff63a",
+    "/assets/icons/apple-touch-icon-180x180.png": "1862b3f900d31231502bc82e29efdbfc03f7db67",
+    "/assets/icons/icon-128x128.png": "0ab0a530eaba364ce6a17f75df351a78d2779afd",
+    "/assets/icons/icon-144x144.png": "251814192418cd0b2fba08d279b9b44a4febca54",
+    "/assets/icons/icon-152x152.png": "eee50ff72241fc5031950309cfea117fb492afee",
+    "/assets/icons/icon-192x192.png": "4b9140317910fafa236ce36efc26b7658dab2725",
+    "/assets/icons/icon-384x384.png": "04884954e71a5347a820996fbda3236640d3839f",
+    "/assets/icons/icon-400x400.png": "7311caefb374d362cc66aeebf61133153bd3f237",
+    "/assets/icons/icon-512x512.png": "a2b826aebdf4d7616a61a0e32efc13ca5f4e8d6c",
+    "/assets/icons/icon-72x72.png": "813247f6428d655237ff2ed4270ebee0cec108e3",
+    "/assets/icons/icon-96x96.png": "651777e937fa2263147984b8df3829729d2bee35",
+    "/assets/mail-fill.png": "f64842ffda8d42af59f685eca6a490548eb30d54",
+    "/assets/mail-outline.png": "928db33b27dd23de2a697423e42ee92034e2b0a2",
+    "/assets/notification-image.jpg": "b8c83f2d20b9bc226534dfa7925d69b79bb91226",
+    "/assets/scan-image.jpg": "a152adc6336764ac33488260b6d7c9972a415e0e",
+    "/assets/setting-fill.png": "eac36d45b4e0c4d477f209ddae3d1aef30d44da9",
+    "/assets/setting-outline.png": "fda8aa2f110d37701a60a4b8249123cbbd5d1771",
+    "/assets/splash/apple-splash-portrait-1125x2436.jpg": "86e1866dc65f05a835da644a8e5e3aacd3e9c879",
+    "/assets/splash/apple-splash-portrait-1242x2208.jpg": "a9e4f9ee89f0c81634f3c7cce590eac67de5d1ef",
+    "/assets/splash/apple-splash-portrait-1242x2688.jpg": "a16336ae3885c9797d10e47c54eca2d82f129273",
+    "/assets/splash/apple-splash-portrait-1536x2048.jpg": "d0e62d124c340d48694c9c36c707faeed726074b",
+    "/assets/splash/apple-splash-portrait-1620x2160.jpg": "889857ba848087abff6268788788f16f6ce8b2e0",
+    "/assets/splash/apple-splash-portrait-1668x2224.jpg": "02f02e93cf0446c53bf8ca092be947e00125af71",
+    "/assets/splash/apple-splash-portrait-1668x2388.jpg": "cec6187345e5ae1262f1d8c392f68370555688a6",
+    "/assets/splash/apple-splash-portrait-2048x2732.jpg": "a2dec5d3be0af24f328db2c86bd53a79a887e2f0",
+    "/assets/splash/apple-splash-portrait-640x1136.jpg": "d931c31a38d9fe11c4b5beb44aa7eaa90c2d68a6",
+    "/assets/splash/apple-splash-portrait-750x1334.jpg": "cd0194c73a9c2192742abe80c24212bdce302db1",
+    "/assets/splash/apple-splash-portrait-828x1792.jpg": "255f84e7a868b9dbf87fc27e7244e4ad9c92c559",
+    "/favicon.ico": "045537cdd8b1e9851a13dc481014c0cf956b872f",
+    "/index.html": "cb67dcb38ee1845bff114b3aef2d282a2618e162",
+    "/main.c2f16b06c2b0cd3f144a.js": "3d4f5b367bf9d1937917fdabfd3f1b6256fe9ba3",
+    "/manifest.webmanifest": "46d71c442ae288ddff67f7ef5452243188c9f2d4",
+    "/polyfills.e11df2376844d2b29b34.js": "0d003992512d28c544b0a972ce2ae6b28ebbf5f6",
+    "/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/styles.9d609ddb7f98a8839335.css": "4e383a60bca793144e2bdcf7f0b543c38e50a4ef"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
